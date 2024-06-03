@@ -6,8 +6,8 @@
 * There should be `on` and `off` button options upon clicking the extension logo so that the user can switch off whenever it's not needed.
 
 ## References
-https://developer.chrome.com/docs/extensions/get-started
-https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab
+* https://developer.chrome.com/docs/extensions/get-started
+* https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-activetab
 
 ## Future Enhancements
 * This can be used in conjunction with RPA and integrated into Realtor sites
